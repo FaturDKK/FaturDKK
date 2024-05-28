@@ -9,12 +9,14 @@ I am 16 years old and I was born in 2008. I am a boy who comes from Central Java
 
 ```Contact me at```
 
-<a href="https://www.facebook.com/HakikiXDC" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width:50px;height:50px;">
-</a>
-<a href="httpe://wa.me/6287765856537?text=Hi+Sir" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width:50px;height:50px;">
-</a>
-<a href="https://t.me/HakikiXD" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width:50px;height:50px;">
-</a>
+<p>
+    <a href="https://www.facebook.com/HakikiXDC" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width:50px;height:50px;">
+    </a>
+    <a href="https://wa.me/6287765856537?text=Hi+Sir" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width:50px;height:50px;">
+    </a>
+    <a href="https://t.me/HakikiXD" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width:50px;height:50px;">
+    </a>
+</p>
